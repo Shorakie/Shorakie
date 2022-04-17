@@ -13,6 +13,6 @@ or <a href="mailto:mhmdamin.jafari@gmail.com"><b>email</b></a> me.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shorakie&show_icons=true" alt="Shorakie's Github Stats">
-![](https://raw.githubusercontent.com/Shorakie/Shorakie/assets/anime-blush.gif)
+<img align="center" src="https://raw.githubusercontent.com/Shorakie/Shorakie/assets/anime-blush.gif" alt=">, <">
 
 </div>
