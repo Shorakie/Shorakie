@@ -10,9 +10,6 @@ Ask me anything <a href="https://github.com/Shorakie/Shorakie/issues/new"><b>her
 or <a href="mailto:mhmdamin.jafari@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shorakie&show_icons=true" alt="Shorakie's Github Stats">
-<img align="center" src="https://raw.githubusercontent.com/Shorakie/Shorakie/assets/anime-blush.gif" alt=">, <">
+<img align="center" src="https://raw.githubusercontent.com/Shorakie/Shorakie/main/assets/anime-blush.gif" alt=">, <">
 
 </div>
