@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Shorakie/Shorakie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/Shorakie/Shorakie/issues/new"><b>here</b></a><br>
+or <a href="mailto:mhmdamin.jafari@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shorakie&show_icons=true" alt="Shorakie's Github Stats">
+![](https://raw.githubusercontent.com/Shorakie/Shorakie/assets/anime-blush.gif)
+
+</div>
